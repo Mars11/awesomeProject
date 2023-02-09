@@ -1,0 +1,2 @@
+# awesomeProject
+just for go 
